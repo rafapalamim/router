@@ -1,0 +1,17 @@
+{
+    "name": "rafapalamim/router",
+    "description": "Projeto de estudo",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Router\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rafael Palamim",
+            "email": "rafael.palamim@gmail.com"
+        }
+    ],
+    "require": {}
+}
